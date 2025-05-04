@@ -1,0 +1,6 @@
+chat\MessageCleaner$1.class
+chat\ChatWebSocket.class
+db\MongoDBUtil.class
+auth\RegisterServlet.class
+auth\LoginServlet.class
+chat\MessageCleaner.class
