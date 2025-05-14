@@ -17,7 +17,6 @@
     <url-pattern>/register</url-pattern>
   </servlet-mapping>
 
-  <!-- ✅ Add this section -->
   <welcome-file-list>
     <welcome-file>index.jsp</welcome-file>
   </welcome-file-list>
